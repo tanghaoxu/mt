@@ -159,7 +159,7 @@ panel_result['content'] = content
       })
     }
   
-    let netflix_check_result = '奈飞:'
+    let netflix_check_result = '网飞:'
   
     await inner_check(81215567)
       .then((code) => {
